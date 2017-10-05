@@ -9,7 +9,7 @@
     </parent>
     <groupId>net.nicoll</groupId>
     <artifactId>spring-boot-daemon</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <packaging>pom</packaging>
     <name>Spring Boot Daemon</name>
     <description>
@@ -19,7 +19,7 @@
         <connection>scm:git:git@github.com:pramoth/spring-boot-daemon.git</connection>
         <developerConnection>scm:git:git@github.com:pramoth/spring-boot-daemon.git</developerConnection>
         <url>scm:git:git@github.com:pramoth/spring-boot-daemon.git</url>
-        <tag>HEAD</tag>
+        <tag>spring-boot-daemon-0.0.1</tag>
     </scm>
     <distributionManagement>
         <repository>
@@ -46,7 +46,7 @@
             <dependency>
                 <groupId>net.nicoll</groupId>
                 <artifactId>spring-boot-daemon-integration</artifactId>
-                <version>0.0.1-SNAPSHOT</version>
+                <version>0.0.1</version>
             </dependency>
             <dependency>
                 <groupId>commons-daemon</groupId>
