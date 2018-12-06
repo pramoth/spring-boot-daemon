@@ -24,11 +24,11 @@
     <distributionManagement>
         <repository>
             <id>Geniustree Release</id>
-            <url>http://nexus.geniustree.ath.cx/repository/maven-releases/</url>
+            <url>https://nexus.geniustree.io/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
             <id>Geniustree Snapshots</id>
-            <url>http://nexus.geniustree.ath.cx/repository/maven-snapshots/</url>
+            <url>https://nexus.geniustree.io/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
     <properties>
