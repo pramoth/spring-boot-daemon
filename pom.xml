@@ -9,7 +9,7 @@
     </parent>
     <groupId>net.nicoll</groupId>
     <artifactId>spring-boot-daemon</artifactId>
-    <version>2.0.1-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Spring Boot Daemon</name>
     <description>
@@ -46,7 +46,7 @@
             <dependency>
                 <groupId>net.nicoll</groupId>
                 <artifactId>spring-boot-daemon-integration</artifactId>
-                <version>2.0.1-SNAPSHOT</version>
+                <version>0.0.2-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>commons-daemon</groupId>
