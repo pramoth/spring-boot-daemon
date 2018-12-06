@@ -9,16 +9,16 @@
 	<artifactId>spring-boot-daemon-integration</artifactId>
 	<packaging>jar</packaging>
 	<name>Spring Boot Daemon :: Integration</name>
-    <distributionManagement>
-        <repository>
-            <id>Geniustree Release</id>
-            <url>http://nexus.geniustree.ath.cx/repository/maven-releases/</url>
-        </repository>
-        <snapshotRepository>
-            <id>Geniustree Snapshots</id>
-            <url>http://nexus.geniustree.ath.cx/repository/maven-snapshots/</url>
-        </snapshotRepository>
-    </distributionManagement>
+	<distributionManagement>
+		<repository>
+			<id>Geniustree Release</id>
+			<url>https://nexus.geniustree.io/repository/maven-releases/</url>
+		</repository>
+		<snapshotRepository>
+			<id>Geniustree Snapshots</id>
+			<url>https://nexus.geniustree.io/repository/maven-snapshots/</url>
+		</snapshotRepository>
+	</distributionManagement>
 	<dependencies>
 		<dependency>
 			<groupId>commons-daemon</groupId>
